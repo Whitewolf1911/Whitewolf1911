@@ -36,4 +36,4 @@ ___
 
 [![wakatime](https://wakatime.com/badge/user/7a3208ae-8d7c-4834-bad7-68755ddd26b8.svg?style=social)](https://wakatime.com/@7a3208ae-8d7c-4834-bad7-68755ddd26b8)  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Whitewolf1911&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000&ring=FFFFFF&fire=FF0000&currStreakNum=FF0000&currStreakLabel=FF0000&sideNums=FF0000&sideLabels=FFFFFF&stroke=C1C1C12D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whitewolf1911&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FFFFFF&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whitewolf1911&hide=ejs&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FFFFFF&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
