@@ -14,6 +14,7 @@
 
 ### <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="30"> About me:
 
+- I am Computer Engineer student in Istanbul University - Cerrahpasa.
 - I am trying to be Android Developer.
 - In my spare time, i read books, workout and play my guitar 🤟
 
