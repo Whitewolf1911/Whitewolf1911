@@ -17,7 +17,7 @@
 - I am Computer Engineer student in Istanbul University - Cerrahpasa.
 - I am trying to be Android Developer.
 - In my spare time, i read books, workout and play my guitar 🤟
-- Checkout my Github Users App !! ->  https://github.com/Whitewolf1911/GithubUsersApp
+- Checkout my Github Users App ! ->  https://github.com/Whitewolf1911/GithubUsersApp
 
 ___
 
