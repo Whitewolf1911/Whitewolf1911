@@ -15,7 +15,7 @@
 ### <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="30"> About me:
 
 - I am Computer Engineering student in Istanbul University - Cerrahpasa.
-- I am on my way to be a Mobile Developer (Native Android / Flutter)
+- I am on my way to become a Mobile Developer (Native Android / Flutter)
 - In my spare time, i read books, workout and play my guitar 🤟
 - Checkout my Github Users App ! ->  https://github.com/Whitewolf1911/GithubUsersApp
 
