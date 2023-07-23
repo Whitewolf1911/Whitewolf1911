@@ -14,9 +14,8 @@
 
 ### <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="30"> About me:
 
-- I am Computer Engineering student in Istanbul University - Cerrahpasa.
-- I am an Android Developer
-- In my spare time, i read books, workout and play my guitar 🤟
+- Computer/Software Engineer - Android Dev
+- I love working out and play my guitar 🤟
 - You can download my Cinemax App from Play Store! ->  https://play.google.com/store/apps/details?id=com.alibasoglu.cinemax
 - You can download my ÇiftlikPazarım App from Play Store! https://play.google.com/store/apps/details?id=com.alibasoglu.ciftlikpazarim
 
