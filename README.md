@@ -26,13 +26,14 @@ ___
 <div>
   <a href="https://kotlinlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/></a>&nbsp;
   <a href="https://developer.android.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="40" height="40"/></a>&nbsp;
-  <a href="https://developer.android.com/studio"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/></a>&nbsp;
+  <a href="https://nodejs.org/en"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
+  <a href="https://flutter.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="VsCode" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.typescriptlang.org"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
+  <a href="https://nestjs.com"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/></a>&nbsp;
+  <a href="https://reactnative.dev"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React-Native" alt="React-Native" width="40" height="40"/></a>&nbsp;
   <a href="https://www.figma.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
-  <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40"/></a>&nbsp;
-  <a href="https://flutter.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="VsCode" width="40" height="40"/></a>&nbsp;
-  <a href="https://nodejs.org/en"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.typescriptlang.org"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
+  
 
 </div>
 
